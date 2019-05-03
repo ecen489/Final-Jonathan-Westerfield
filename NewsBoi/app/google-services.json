@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692749174939",
+    "firebase_url": "https://newsboi-d1658.firebaseio.com",
+    "project_id": "newsboi-d1658",
+    "storage_bucket": "newsboi-d1658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692749174939:android:dcafc09b22b50b77",
+        "android_client_info": {
+          "package_name": "com.newsboi.jonathanwesterfield.newsboi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692749174939-agpr2f5vkurlit04gde4mvnm4i519sjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newsboi.jonathanwesterfield.newsboi",
+            "certificate_hash": "e31b44880ef903cf01349420f07602c3db7a6472"
+          }
+        },
+        {
+          "client_id": "692749174939-ftmr7e4rq8g7mhtjr6pvs0h5a4vbscj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl37MCNyfLKTtFgV3o4wb9d75V4gBDE7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692749174939-ftmr7e4rq8g7mhtjr6pvs0h5a4vbscj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
